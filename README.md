@@ -17,16 +17,18 @@ _An IoT solution designed for sophisticated demand-controlled heating, ventilati
 
 ## Table of Contents
 
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [System Architecture](#-system-architecture)
-- [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [System Architecture](#system-architecture)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation & Usage](#installation--usage)
-- [Project Structure](#-project-structure)
-- [Demo](#-demo)
-- [Author](#-contributors)
+- [Project Structure](#project-structure)
+- [Demo](#demo)
+- [Author](#author)
 
 ---
 
@@ -105,7 +107,7 @@ You will need to deploy the firmware to the Arduino first, then run the Python d
 
 #### Step 2: Start the Dashboard
 
-1. Open a new terminal in VS Code (`` Cmd + ` ``).
+1. Open a new terminal in VS Code.
 2. Install the required Python libraries:
 
 ```bash
@@ -144,7 +146,7 @@ ClimaCore/
 
 ## Author
 
-Name: Abhishil Sinoj
-GitHub: https://github.com/abhishilsinoj
+- Name: Abhishil Sinoj
+- GitHub: https://github.com/abhishilsinoj
 
 ---
